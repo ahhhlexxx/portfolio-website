@@ -1,0 +1,20 @@
+.reveal {
+  font-family: Arial, sans-serif;
+}
+
+.reveal h1,
+.reveal h2 {
+  color: #0047AB;
+}
+
+.reveal .slide-number {
+  color: #0047AB;
+}
+
+.reveal a {
+  color: #0047AB;
+}
+
+.reveal strong {
+  color: #0047AB;
+}
