@@ -1,0 +1,331 @@
+[
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "contact-us/thank-you.html",
+    "href": "contact-us/thank-you.html",
+    "title": "Thank you",
+    "section": "",
+    "text": "Form submitted."
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "Warning in attr(x, \"match.length\"): 'xfun::attr()' is deprecated.\nUse 'xfun::attr2()' instead.\nSee help(\"Deprecated\")\nWarning in attr(x, \"match.length\"): 'xfun::attr()' is deprecated.\nUse 'xfun::attr2()' instead.\nSee help(\"Deprecated\")\nWarning in attr(x, \"match.length\"): 'xfun::attr()' is deprecated.\nUse 'xfun::attr2()' instead.\nSee help(\"Deprecated\")\n\n\nYou can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Alexandria Jaimes",
+    "section": "About Me",
+    "text": "About Me\nI’m studying at Cal Poly Pomona and building skills in digital marketing, marketing analytics, content creation, and data visualization. This portfolio shows some of the work I’ve completed in my classes, including marketing projects, dashboards, reports, and presentations."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Alexandria Jaimes",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect"
+  },
+  {
+    "objectID": "contact-us/contact-us.html",
+    "href": "contact-us/contact-us.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Template"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "Summary",
+    "text": "Summary\nI’m interested in digital marketing and using creativity, social media, and data to help brands connect with people."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nDigital marketing\nSocial media\nContent creation\nData analysis in R\nQuarto reports and websites"
+  },
+  {
+    "objectID": "index.html#lets-connect-1",
+    "href": "index.html#lets-connect-1",
+    "title": "Hi, I’m Alexandria Jaimes",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can reach me at alexandriaj@cpp.edu.\nThanks for visiting my portfolio. This website shows some of my class projects, dashboards, and marketing work as I build my skills in digital marketing and marketing analytics.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "marketing-analytics.html#pharmacy-boardshop-influencer-campaign",
+    "href": "marketing-analytics.html#pharmacy-boardshop-influencer-campaign",
+    "title": "Marketing Projects",
+    "section": "Pharmacy Boardshop Influencer Campaign",
+    "text": "Pharmacy Boardshop Influencer Campaign\nFor this project, my group created an influencer marketing campaign for Pharmacy Boardshop. The campaign focused on increasing brand awareness and visibility among young skaters, streetwear consumers, Gen Z, and Southern California youth. The goal was to keep the brand connected to real skate culture instead of making the campaign feel like generic paid promotion.\nThe campaign idea was a four week skate video competition on TikTok and Instagram called “Pharmacy Is Earned.” The campaign used influencers to help build awareness, engagement, user-generated content, and community connection.\nView Pharmacy Boardshop Influencer Campaign\nSkills used:\n\nInfluencer marketing strategy\nSocial media campaign planning\nTikTok and Instagram content strategy\nKPI planning\nAudience targeting\nBrand positioning"
+  },
+  {
+    "objectID": "marketing-analytics.html#guinness-welcome-back-campaign-analysis",
+    "href": "marketing-analytics.html#guinness-welcome-back-campaign-analysis",
+    "title": "Marketing Projects",
+    "section": "Guinness Welcome Back Campaign Analysis",
+    "text": "Guinness Welcome Back Campaign Analysis\nFor this project, I analyzed Guinness’s Welcome Back / #LooksLikeGuinness campaign. The campaign stood out because it used simple black and white visuals that reminded people of a Guinness pint without always showing the product directly.\nI looked at the campaign overview, audience, message strategy, creative approach, IMC media channels, and overall effectiveness. This project helped me understand how a strong brand identity can make a campaign memorable across different platforms.\nView Guinness Campaign Analysis\nSkills used:\n\nBrand campaign analysis\nIMC strategy\nAudience and objective analysis\nMessage strategy\nCreative strategy\nCampaign evaluation"
+  },
+  {
+    "objectID": "marketing-analytics.html#data-import-and-export-project",
+    "href": "marketing-analytics.html#data-import-and-export-project",
+    "title": "Marketing Projects",
+    "section": "Data Import and Export Project",
+    "text": "Data Import and Export Project\nIn this project, I practiced importing and cleaning different types of data in R. I worked with CSV, Excel, SPSS, web scraping, and web data. I also created charts and saved cleaned files.\nSkills used:\n\nData import\nData cleaning\nWeb scraping\nR and Quarto\nData visualization"
+  },
+  {
+    "objectID": "marketing-analytics.html#quarto-website-and-dashboard-project",
+    "href": "marketing-analytics.html#quarto-website-and-dashboard-project",
+    "title": "Marketing Projects",
+    "section": "Quarto Website and Dashboard Project",
+    "text": "Quarto Website and Dashboard Project\nFor this project, I created a small Quarto website with multiple pages. I also made a dashboard using R and published the website through GitHub Pages.\nSkills used:\n\nQuarto websites\nDashboard layout\nGitHub Pages\nR charts and tables\nWebsite publishing"
+  },
+  {
+    "objectID": "marketing-analytics.html#why-these-projects-matter",
+    "href": "marketing-analytics.html#why-these-projects-matter",
+    "title": "Marketing Projects",
+    "section": "Why These Projects Matter",
+    "text": "Why These Projects Matter\nThese projects connect to digital marketing because they show how strategy, creativity, data, and communication work together. In marketing, it’s important to understand the audience, build a clear message, choose the right platforms, and measure whether the campaign is actually working."
+  },
+  {
+    "objectID": "strategic-marketing.html#campaign-strategy",
+    "href": "strategic-marketing.html#campaign-strategy",
+    "title": "Strategic Marketing",
+    "section": "Campaign Strategy",
+    "text": "Campaign Strategy\nA strong marketing campaign needs more than creative ideas. It also needs a clear target audience, a message that fits the brand, and a way to measure whether the campaign worked.\nIn my projects, I practiced building campaign strategies around:\n\nTarget audience\nBrand identity\nSocial media platforms\nCampaign objectives\nInfluencer fit\nKPIs and performance goals"
+  },
+  {
+    "objectID": "strategic-marketing.html#brand-positioning",
+    "href": "strategic-marketing.html#brand-positioning",
+    "title": "Strategic Marketing",
+    "section": "Brand Positioning",
+    "text": "Brand Positioning\nBrand positioning is important because it explains how a brand wants to be seen by its audience. For example, in the Pharmacy Boardshop campaign, the goal was to keep the brand connected to authentic skate culture while still increasing visibility through social media.\nThis helped me understand that marketing should feel natural to the brand. If the campaign feels too forced, people may not trust it."
+  },
+  {
+    "objectID": "strategic-marketing.html#integrated-marketing-communication",
+    "href": "strategic-marketing.html#integrated-marketing-communication",
+    "title": "Strategic Marketing",
+    "section": "Integrated Marketing Communication",
+    "text": "Integrated Marketing Communication\nThe Guinness campaign helped me understand how one clear idea can work across different media channels. The campaign used a simple visual concept and repeated it through TV, outdoor ads, online media, and social media.\nThis showed me that IMC works best when the message stays consistent, but the content still fits each platform."
+  },
+  {
+    "objectID": "strategic-marketing.html#measuring-success",
+    "href": "strategic-marketing.html#measuring-success",
+    "title": "Strategic Marketing",
+    "section": "Measuring Success",
+    "text": "Measuring Success\nI also practiced thinking about how campaign success can be measured. Some examples of useful marketing KPIs include:\n\nReach\nImpressions\nEngagement rate\nFollower growth\nWebsite traffic\nPromo code usage\nConversion rate"
+  },
+  {
+    "objectID": "strategic-marketing.html#key-takeaway",
+    "href": "strategic-marketing.html#key-takeaway",
+    "title": "Strategic Marketing",
+    "section": "Key Takeaway",
+    "text": "Key Takeaway\nThe biggest thing I learned is that marketing strategy connects creativity with purpose. A campaign should not just look good. It should match the audience, support the brand, and have clear goals that can be measured."
+  },
+  {
+    "objectID": "presentation.html#portfolio-website",
+    "href": "presentation.html#portfolio-website",
+    "title": "Portfolio Website",
+    "section": "Portfolio Website",
+    "text": "Portfolio Website\nAlexandria Jaimes\nDigital Marketing Portfolio"
+  },
+  {
+    "objectID": "presentation.html#about-me",
+    "href": "presentation.html#about-me",
+    "title": "Portfolio Website",
+    "section": "About Me",
+    "text": "About Me\nI’m a business student at Cal Poly Pomona interested in digital marketing, social media, content creation, and marketing analytics.\nMy goal is to use creativity and data to help brands connect with people in a clear and meaningful way."
+  },
+  {
+    "objectID": "presentation.html#purpose-of-my-website",
+    "href": "presentation.html#purpose-of-my-website",
+    "title": "Portfolio Website",
+    "section": "Purpose of My Website",
+    "text": "Purpose of My Website\nThis portfolio website was created to organize and showcase my class projects in one place.\nIt includes:\n\nMarketing projects\nCampaign analysis\nA dashboard\nA resume page\nA Revealjs presentation"
+  },
+  {
+    "objectID": "presentation.html#marketing-projects",
+    "href": "presentation.html#marketing-projects",
+    "title": "Portfolio Website",
+    "section": "Marketing Projects",
+    "text": "Marketing Projects\nMy marketing projects show my experience with campaign strategy, audience targeting, brand positioning, and social media planning.\nFeatured projects include:\n\nPharmacy Boardshop Influencer Campaign\nGuinness Welcome Back Campaign Analysis"
+  },
+  {
+    "objectID": "presentation.html#dashboard",
+    "href": "presentation.html#dashboard",
+    "title": "Portfolio Website",
+    "section": "Dashboard",
+    "text": "Dashboard\nMy dashboard uses sample campaign performance data to show how a digital marketing campaign can track platform performance.\nThe dashboard compares:\n\nReach\nEngagement\nClicks\nEngagement rate"
+  },
+  {
+    "objectID": "presentation.html#skills-shown",
+    "href": "presentation.html#skills-shown",
+    "title": "Portfolio Website",
+    "section": "Skills Shown",
+    "text": "Skills Shown\nThis portfolio shows skills I’ve practiced in class, including:\n\nDigital marketing strategy\nSocial media campaign planning\nBrand campaign analysis\nData visualization\nR and Quarto\nGitHub Pages publishing\nWebsite organization"
+  },
+  {
+    "objectID": "presentation.html#what-i-learned",
+    "href": "presentation.html#what-i-learned",
+    "title": "Portfolio Website",
+    "section": "What I Learned",
+    "text": "What I Learned\nThis project helped me understand how websites can be used as professional portfolios.\nI also practiced building pages, linking files, creating a dashboard, creating slides, and publishing a website through GitHub Pages."
+  },
+  {
+    "objectID": "presentation.html#thank-you",
+    "href": "presentation.html#thank-you",
+    "title": "Portfolio Website",
+    "section": "Thank You",
+    "text": "Thank You\nThank you for viewing my portfolio."
+  },
+  {
+    "objectID": "presentation.html#featured-project-pharmacy-boardshop",
+    "href": "presentation.html#featured-project-pharmacy-boardshop",
+    "title": "Portfolio Website",
+    "section": "Featured Project: Pharmacy Boardshop",
+    "text": "Featured Project: Pharmacy Boardshop\nThe project I’m most proud of is my group’s Pharmacy Boardshop influencer campaign.\nFor this project, we created a social media campaign focused on increasing brand awareness while still keeping the brand connected to real skate culture.\nThe campaign was built around:\n\nTikTok and Instagram\nInfluencer marketing\nUser-generated content\nAudience targeting\nCampaign KPIs"
+  },
+  {
+    "objectID": "presentation.html#why-this-project-stands-out",
+    "href": "presentation.html#why-this-project-stands-out",
+    "title": "Portfolio Website",
+    "section": "Why This Project Stands Out",
+    "text": "Why This Project Stands Out\nI’m proud of this project because it connected creativity with strategy.\nInstead of just making a basic social media campaign, we thought about:\n\nWho the audience was\nWhich platforms made the most sense\nWhat kind of influencers fit the brand\nHow the campaign could be measured\nHow to keep the idea authentic"
+  },
+  {
+    "objectID": "presentation.html#guinness-campaign-analysis",
+    "href": "presentation.html#guinness-campaign-analysis",
+    "title": "Portfolio Website",
+    "section": "Guinness Campaign Analysis",
+    "text": "Guinness Campaign Analysis\nI also analyzed Guinness’s Welcome Back / Looks Like Guinness campaign.\nThis project helped me understand how a strong brand identity can make a campaign memorable across different platforms.\nThe campaign showed how simple visuals, emotional messaging, and consistent media channels can work together."
+  },
+  {
+    "objectID": "google-analytics.html#why-google-analytics-matters",
+    "href": "google-analytics.html#why-google-analytics-matters",
+    "title": "Google Analytics",
+    "section": "Why Google Analytics Matters",
+    "text": "Why Google Analytics Matters\nGoogle Analytics is useful for a professional portfolio because it can show how visitors interact with the website. For example, it could help track whether people view important pages like my projects, dashboard, presentation, or resume."
+  },
+  {
+    "objectID": "google-analytics.html#metrics-that-could-be-tracked",
+    "href": "google-analytics.html#metrics-that-could-be-tracked",
+    "title": "Google Analytics",
+    "section": "Metrics That Could Be Tracked",
+    "text": "Metrics That Could Be Tracked\nSome useful website metrics include:\n\nWebsite visits\nPopular pages\nTraffic sources\nUser engagement\nClicks on project links\nResume downloads"
+  },
+  {
+    "objectID": "google-analytics.html#portfolio-use",
+    "href": "google-analytics.html#portfolio-use",
+    "title": "Google Analytics",
+    "section": "Portfolio Use",
+    "text": "Portfolio Use\nFor this project, the Google Analytics section shows that my website is organized with analytics in mind and ready for tracking code when available."
+  },
+  {
+    "objectID": "google-analytics.html#what-i-did",
+    "href": "google-analytics.html#what-i-did",
+    "title": "Google Analytics",
+    "section": "What I Did",
+    "text": "What I Did\nWhile completing the GA4 certificate, I learned how Google Analytics 4 can track website and app activity. I practiced learning about events, conversions, reports, traffic sources, and how analytics can help businesses understand what users are doing."
+  },
+  {
+    "objectID": "google-analytics.html#what-i-learned",
+    "href": "google-analytics.html#what-i-learned",
+    "title": "Google Analytics",
+    "section": "What I Learned",
+    "text": "What I Learned\nThe biggest thing I learned is that analytics helps turn website activity into useful marketing insights. Instead of only guessing what people are interested in, marketers can use data to see which pages people visit, how users find the website, and what actions they take."
+  }
+]

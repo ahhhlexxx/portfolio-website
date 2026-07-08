@@ -1,0 +1,34 @@
+---
+title: "Google Analytics"
+---
+
+# Google Analytics
+
+This page connects to my experience completing the GA4 certificate and learning how Google Analytics can be used to understand website performance.
+
+## What I Did
+
+While completing the GA4 certificate, I learned how Google Analytics 4 can track website and app activity. I practiced learning about events, conversions, reports, traffic sources, and how analytics can help businesses understand what users are doing.
+
+## What I Learned
+
+The biggest thing I learned is that analytics helps turn website activity into useful marketing insights. Instead of only guessing what people are interested in, marketers can use data to see which pages people visit, how users find the website, and what actions they take.
+
+## Why Google Analytics Matters
+
+Google Analytics is useful for a professional portfolio because it can show how visitors interact with the website. For example, it could help track whether people view important pages like my projects, dashboard, presentation, or resume.
+
+## Metrics That Could Be Tracked
+
+Some useful website metrics include:
+
+- Website visits
+- Popular pages
+- Traffic sources
+- User engagement
+- Clicks on project links
+- Resume downloads
+
+## Portfolio Use
+
+For this project, the Google Analytics section shows that my website is organized with analytics in mind and ready for tracking code when available.

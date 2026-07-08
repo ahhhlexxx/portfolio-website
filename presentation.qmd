@@ -1,0 +1,119 @@
+---
+title: "Portfolio Website"
+author: "Alexandria Jaimes"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    css: presentation.css
+---
+
+## Portfolio Website
+
+Alexandria Jaimes  
+Digital Marketing Portfolio
+
+---
+
+## About Me
+
+I’m a business student at Cal Poly Pomona interested in digital marketing, social media, content creation, and marketing analytics.
+
+My goal is to use creativity and data to help brands connect with people in a clear and meaningful way.
+
+---
+
+## Purpose of My Website
+
+This portfolio website was created to organize and showcase my class projects in one place.
+
+It includes:
+
+- Marketing projects
+- Campaign analysis
+- A dashboard
+- A resume page
+- A Revealjs presentation
+
+---
+
+## Featured Project: Pharmacy Boardshop
+
+The project I’m most proud of is my group’s Pharmacy Boardshop influencer campaign.
+
+For this project, we created a social media campaign focused on increasing brand awareness while still keeping the brand connected to real skate culture.
+
+The campaign was built around:
+
+- TikTok and Instagram
+- Influencer marketing
+- User-generated content
+- Audience targeting
+- Campaign KPIs
+
+---
+
+## Why This Project Stands Out
+
+I’m proud of this project because it connected creativity with strategy.
+
+Instead of just making a basic social media campaign, we thought about:
+
+- Who the audience was
+- Which platforms made the most sense
+- What kind of influencers fit the brand
+- How the campaign could be measured
+- How to keep the idea authentic
+
+---
+
+## Guinness Campaign Analysis
+
+I also analyzed Guinness’s Welcome Back / Looks Like Guinness campaign.
+
+This project helped me understand how a strong brand identity can make a campaign memorable across different platforms.
+
+The campaign showed how simple visuals, emotional messaging, and consistent media channels can work together.
+
+---
+
+## Dashboard
+
+My dashboard uses sample campaign performance data to show how a digital marketing campaign can track platform performance.
+
+The dashboard compares:
+
+- Reach
+- Engagement
+- Clicks
+- Engagement rate
+
+---
+
+## Skills Shown
+
+This portfolio shows skills I’ve practiced in class, including:
+
+- Digital marketing strategy
+- Social media campaign planning
+- Brand campaign analysis
+- Data visualization
+- R and Quarto
+- GitHub Pages publishing
+- Website organization
+
+---
+
+## What I Learned
+
+This project helped me understand how websites can be used as professional portfolios.
+
+I also practiced building pages, linking files, creating a dashboard, creating slides, and publishing a website through GitHub Pages.
+
+---
+
+## Thank You
+
+Thank you for viewing my portfolio.
+

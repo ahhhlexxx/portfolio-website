@@ -1,0 +1,69 @@
+---
+title: "Marketing Projects"
+---
+
+# Marketing Projects
+
+This page highlights a few marketing and data projects I’ve worked on. These projects helped me practice campaign strategy, social media planning, brand analysis, data analysis, and presenting insights clearly.
+
+## Pharmacy Boardshop Influencer Campaign
+
+For this project, my group created an influencer marketing campaign for Pharmacy Boardshop. The campaign focused on increasing brand awareness and visibility among young skaters, streetwear consumers, Gen Z, and Southern California youth. The goal was to keep the brand connected to real skate culture instead of making the campaign feel like generic paid promotion.
+
+The campaign idea was a four week skate video competition on TikTok and Instagram called **“Pharmacy Is Earned.”** The campaign used influencers to help build awareness, engagement, user-generated content, and community connection.
+
+[View Pharmacy Boardshop Influencer Campaign](PharmacyBoardshop.pdf)
+
+**Skills used:**
+
+- Influencer marketing strategy
+- Social media campaign planning
+- TikTok and Instagram content strategy
+- KPI planning
+- Audience targeting
+- Brand positioning
+
+## Guinness Welcome Back Campaign Analysis
+
+For this project, I analyzed Guinness’s **Welcome Back / #LooksLikeGuinness** campaign. The campaign stood out because it used simple black and white visuals that reminded people of a Guinness pint without always showing the product directly.
+
+I looked at the campaign overview, audience, message strategy, creative approach, IMC media channels, and overall effectiveness. This project helped me understand how a strong brand identity can make a campaign memorable across different platforms.
+
+[View Guinness Campaign Analysis](GuinnessCampaign.pdf)
+
+**Skills used:**
+
+- Brand campaign analysis
+- IMC strategy
+- Audience and objective analysis
+- Message strategy
+- Creative strategy
+- Campaign evaluation
+
+## Data Import and Export Project
+
+In this project, I practiced importing and cleaning different types of data in R. I worked with CSV, Excel, SPSS, web scraping, and web data. I also created charts and saved cleaned files.
+
+**Skills used:**
+
+- Data import
+- Data cleaning
+- Web scraping
+- R and Quarto
+- Data visualization
+
+## Quarto Website and Dashboard Project
+
+For this project, I created a small Quarto website with multiple pages. I also made a dashboard using R and published the website through GitHub Pages.
+
+**Skills used:**
+
+- Quarto websites
+- Dashboard layout
+- GitHub Pages
+- R charts and tables
+- Website publishing
+
+## Why These Projects Matter
+
+These projects connect to digital marketing because they show how strategy, creativity, data, and communication work together. In marketing, it’s important to understand the audience, build a clear message, choose the right platforms, and measure whether the campaign is actually working.

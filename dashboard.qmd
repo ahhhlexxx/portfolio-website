@@ -1,0 +1,85 @@
+---
+title: "Dashboard"
+format: dashboard
+---
+
+# Campaign Performance
+
+This dashboard uses sample campaign performance data to show how a digital marketing campaign could track reach, engagement, clicks, and engagement rate across platforms. It connects to influencer and social media campaign work because these are common metrics used to compare platform performance.
+
+```{r}
+#| label: campaign-data
+
+campaign_data <- data.frame(
+  platform = c("Instagram", "TikTok", "Email", "Website"),
+  reach = c(18000, 42000, 6000, 9500),
+  engagement = c(1450, 5200, 720, 1100),
+  clicks = c(430, 1250, 310, 520)
+)
+
+campaign_data
+```
+
+## Row
+
+```{r}
+#| content: valuebox
+#| title: "Total Reach"
+
+sum(campaign_data$reach)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Total Engagement"
+
+sum(campaign_data$engagement)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Total Clicks"
+
+sum(campaign_data$clicks)
+```
+
+## Row
+
+```{r}
+barplot(
+  campaign_data$reach,
+  names.arg = campaign_data$platform,
+  main = "Reach by Platform",
+  xlab = "Platform",
+  ylab = "Reach"
+)
+```
+
+```{r}
+barplot(
+  campaign_data$engagement,
+  names.arg = campaign_data$platform,
+  main = "Engagement by Platform",
+  xlab = "Platform",
+  ylab = "Engagement"
+)
+```
+
+## Row
+
+```{r}
+engagement_rate <- campaign_data$engagement / campaign_data$reach
+
+barplot(
+  engagement_rate,
+  names.arg = campaign_data$platform,
+  main = "Engagement Rate by Platform",
+  xlab = "Platform",
+  ylab = "Engagement Rate"
+)
+```
+
+```{r}
+campaign_data[order(campaign_data$clicks, decreasing = TRUE), ]
+```
+

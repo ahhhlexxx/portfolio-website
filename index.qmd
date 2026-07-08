@@ -1,0 +1,31 @@
+---
+title: "Hi, I'm Alexandria Jaimes"
+---
+
+
+::: {.columns}
+::: {.column width="30%"}
+![](images/headshot.jpg){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a business student interested in digital marketing. I enjoy using creativity, social media, and data to help brands connect with people.
+:::
+:::
+
+## About Me
+
+I’m studying at Cal Poly Pomona and building skills in digital marketing, marketing analytics, content creation, and data visualization. This portfolio shows some of the work I’ve completed in my classes, including marketing projects, dashboards, reports, and presentations.
+
+
+
+## Let's Connect
+
+## Let's Connect
+
+You can reach me at [alexandriaj@cpp.edu](mailto:alexandriaj@cpp.edu).
+
+Thanks for visiting my portfolio. This website shows some of my class projects, dashboards, and marketing work as I build my skills in digital marketing and marketing analytics.
+
+---
+
+*Welcome to my portfolio.*

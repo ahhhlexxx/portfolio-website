@@ -1,0 +1,21 @@
+---
+title: "Resume"
+---
+
+# Resume
+
+You can view or download my resume here:
+
+[Download my resume](Alexandria_Jaimes_Resume.pdf)
+
+## Summary
+
+I'm interested in digital marketing and using creativity, social media, and data to help brands connect with people.
+
+## Skills
+
+- Digital marketing
+- Social media
+- Content creation
+- Data analysis in R
+- Quarto reports and websites
