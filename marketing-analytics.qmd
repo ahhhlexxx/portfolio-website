@@ -2,9 +2,9 @@
 title: "Marketing Projects"
 ---
 
-# Marketing Projects
-
 This page highlights a few marketing and data projects I’ve worked on. These projects helped me practice campaign strategy, social media planning, brand analysis, data analysis, and presenting insights clearly.
+
+::: {.card-section}
 
 ## Pharmacy Boardshop Influencer Campaign
 
@@ -23,6 +23,10 @@ The campaign idea was a four week skate video competition on TikTok and Instagra
 - Audience targeting
 - Brand positioning
 
+:::
+
+::: {.card-section}
+
 ## Guinness Welcome Back Campaign Analysis
 
 For this project, I analyzed Guinness’s **Welcome Back / #LooksLikeGuinness** campaign. The campaign stood out because it used simple black and white visuals that reminded people of a Guinness pint without always showing the product directly.
@@ -39,6 +43,8 @@ I looked at the campaign overview, audience, message strategy, creative approach
 - Message strategy
 - Creative strategy
 - Campaign evaluation
+
+:::
 
 ## Data Import and Export Project
 

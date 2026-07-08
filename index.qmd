@@ -16,10 +16,6 @@ I'm a business student interested in digital marketing. I enjoy using creativity
 
 I’m studying at Cal Poly Pomona and building skills in digital marketing, marketing analytics, content creation, and data visualization. This portfolio shows some of the work I’ve completed in my classes, including marketing projects, dashboards, reports, and presentations.
 
-
-
-## Let's Connect
-
 ## Let's Connect
 
 You can reach me at [alexandriaj@cpp.edu](mailto:alexandriaj@cpp.edu).

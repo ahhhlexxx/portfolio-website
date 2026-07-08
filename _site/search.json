@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Projects",
+    "section": "",
+    "text": "This page highlights a few marketing and data projects I’ve worked on. These projects helped me practice campaign strategy, social media planning, brand analysis, data analysis, and presenting insights clearly."
+  },
+  {
     "objectID": "marketing-analytics.html#pharmacy-boardshop-influencer-campaign",
     "href": "marketing-analytics.html#pharmacy-boardshop-influencer-campaign",
     "title": "Marketing Projects",
@@ -89,6 +96,13 @@
     "title": "Customer Segmentation Using Clustering",
     "section": "",
     "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "google-analytics.html",
+    "href": "google-analytics.html",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "This page connects to my experience completing the GA4 certificate and learning how Google Analytics can be used to understand website performance."
   },
   {
     "objectID": "google-analytics.html#what-i-did",
@@ -193,7 +207,14 @@
     "href": "presentation.html#thank-you",
     "title": "Portfolio Website",
     "section": "Thank You",
-    "text": "Thank You\nThank you for viewing my portfolio."
+    "text": "Thank You\nThank you for viewing my portfolio.\nBack to Dashboard"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can view or download my resume here:\nDownload my resume"
   },
   {
     "objectID": "resume.html#summary",
@@ -240,13 +261,6 @@
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
-    "title": "Hi, I’m Alexandria Jaimes",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect"
-  },
-  {
-    "objectID": "index.html#lets-connect-1",
-    "href": "index.html#lets-connect-1",
     "title": "Hi, I’m Alexandria Jaimes",
     "section": "Let’s Connect",
     "text": "Let’s Connect\nYou can reach me at alexandriaj@cpp.edu.\nThanks for visiting my portfolio. This website shows some of my class projects, dashboards, and marketing work as I build my skills in digital marketing and marketing analytics.\n\nWelcome to my portfolio."

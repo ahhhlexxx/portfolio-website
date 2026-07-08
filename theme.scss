@@ -87,3 +87,43 @@ pre code {
   0%   { background-color: $color-primary;   }
   100% { background-color: $color-secondary; }
 }
+
+/* Custom portfolio colors */
+
+$primary: #0047AB;
+
+.navbar {
+  background-color: #0047AB;
+}
+
+.navbar-title,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #cfe3ff !important;
+}
+
+h1, h2, h3 {
+  color: #0047AB;
+}
+
+a {
+  color: #0047AB;
+}
+
+a:hover {
+  color: #003580;
+}
+
+/* Section cards */
+
+.card-section {
+  border: 1px solid #d9e6f7;
+  border-left: 6px solid #0047AB;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  background-color: #f8fbff;
+}

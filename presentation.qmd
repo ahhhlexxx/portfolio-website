@@ -117,3 +117,4 @@ I also practiced building pages, linking files, creating a dashboard, creating s
 
 Thank you for viewing my portfolio.
 
+[Back to Dashboard](dashboard.html)

@@ -2,8 +2,6 @@
 title: "Google Analytics"
 ---
 
-# Google Analytics
-
 This page connects to my experience completing the GA4 certificate and learning how Google Analytics can be used to understand website performance.
 
 ## What I Did

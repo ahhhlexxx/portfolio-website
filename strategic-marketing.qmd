@@ -1,10 +1,12 @@
+
+::: {.card-section}
 ---
 title: "Strategic Marketing"
 ---
 
-# Strategic Marketing
-
 This page focuses on the strategy side of my marketing work. These projects helped me practice thinking about audiences, brand positioning, campaign goals, messaging, and how to measure success.
+
+:::
 
 ## Campaign Strategy
 
